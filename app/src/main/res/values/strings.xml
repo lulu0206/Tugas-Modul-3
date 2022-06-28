@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Room</string>
+    <string name="tambah">Tambah</string>
+    <string name="simpan">Simpan</string>
+    <string name="alamat_email">Alamat Email</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="email">Email</string>
+    <string name="namaLengkap">Nama lengkap</string>
+</resources>
